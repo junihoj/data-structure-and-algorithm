@@ -31,5 +31,5 @@ function missingPositveInteger(arr){
 }
 
 
-// console.log(missingPositveInteger([3, 4, -1, 1]))
-console.log(missingPositveInteger([1, 2, 0]))
+console.log(missingPositveInteger([3, 4, -1, 1]))
+// console.log(missingPositveInteger([1, 2, 0]))
